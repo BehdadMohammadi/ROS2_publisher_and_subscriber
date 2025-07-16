@@ -1,7 +1,6 @@
 # ROS2_publisher_and_subscriber
-Practicing to generate topics
 
-ROS 2 Number Publisher and Counter Package
+## ROS 2 Number Publisher and Counter Package
 This ROS 2 package contains two Python nodes built with rclpy. Together, they demonstrate basic publishing and subscribing using standard message types from example_interfaces.
 
 Nodes
