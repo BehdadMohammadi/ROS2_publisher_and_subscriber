@@ -7,10 +7,10 @@ This ROS 2 package contains two Python nodes built with rclpy. Together, they de
 1. number_publisher
 * File: number_publisher.py
 
-Description:
+* Description:
 This node publishes a random integer between 1 and 100 every 0.5 seconds on the /number topic.
 
-Published Topic:
+* Published Topic:
 
 /number (example_interfaces/msg/Int64)
 
@@ -34,7 +34,7 @@ Published Topic:
 Behavior:
 Every time a message is received on /number, the node logs the number, increments an internal counter, and publishes the updated count to /number_count.
 
-Launch Instructions
+# Launch Instructions
 Make sure you have a ROS 2 workspace set up. To run these nodes:
 
 bash
