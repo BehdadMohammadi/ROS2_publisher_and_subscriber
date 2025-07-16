@@ -3,7 +3,7 @@
 ## ROS 2 Number Publisher and Counter Package
 This ROS 2 package contains two Python nodes built with rclpy. Together, they demonstrate basic publishing and subscribing using standard message types from example_interfaces.
 
-Nodes
+# Nodes
 1. number_publisher
 File: number_publisher.py
 
